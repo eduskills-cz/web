@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}{{ config.title }} – {{ section.title }}{% endblock %}
+
+{% block content %}
+    {% set parts = section.content | split(pat="[split]") %}
+    <section id="intro">
+        {{ parts[0] | safe }}
+    </section>
+
+    <section id="lecturers">
+        <div class="lecturers-container">
+            {% set lecturers = get_section(path="lektori/_index.md")%}
+            {% for slug in lecturers.extra.lecturers %}
+                {% if slug != "" %}
+                {% set lecturer = get_page(path="lektori/" ~ slug ~ ".md") %}
+                {% else %}
+                {% set lecturer = load_data(literal='{"title": ""}') %}
+                {{ lecturer.title | default(value="") }}
+                {% endif %}
+                    <div class="lecturer-card placeholder">
+                      <img class="photo" src="/images/lecturers/kiki.jpg">
+                      <div class="name">{{ lecturer.title | default(value="?") }}</div>
+                      <div class="bio">{{ lecturer.extra.bio | default(value="Brzy se dozvíte, kdo další se přidá do týmu.") }}</div>
+                    </div>
+            {% endfor %}
+        </div>
+    </section>
+
+    <section id="outro">
+        {{ parts[1] | safe }}
+    </section>
+{% endblock %}
