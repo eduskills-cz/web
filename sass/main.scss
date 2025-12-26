@@ -1,5 +1,5 @@
 $max-width: 1200px;
-$photo-width: 320px;
+$photo-width: 240px;
 $horizontal-padding: 1.5rem;
 
 $font-sans: 'Verdana', sans-serif;
@@ -48,7 +48,7 @@ strong, em {
 
 code, pre {
   font-family: $font-mono;        // monospace for code
-  background-color: $cloud-dancer;
+  ggbackground-color: $cloud-dancer;
   color: $text-primary;
   padding: 0.2rem 0.4rem;
   border-radius: 0.25rem;
@@ -79,13 +79,11 @@ header {
     font-weight: bold;
 
     > h1 {
-      @media (max-width: 399px) {
-        display: none;
-      }
       margin: auto 0;
-      flex: 1 0 auto;
+      flex: 1 0 300px;
       padding: 0 $horizontal-padding;
       font-size: 2rem;
+      line-height: 5rem;
     }
 
     > input[type="checkbox"] {
@@ -94,9 +92,13 @@ header {
     }
 
     > label {
+      flex: 0 0 5rem;
       display: none;
       @media (max-width: 768px) {
         display: block;
+      }
+      @media (max-width: 399px) {
+        flex: 0 0 100%;
       }
       width: 5rem;
       height: 5rem;
