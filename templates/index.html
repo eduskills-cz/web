@@ -19,7 +19,7 @@
                 {{ lecturer.title | default(value="") }}
                 {% endif %}
                     <div class="lecturer-card placeholder">
-                      <img class="photo" src="/images/lecturers/kiki.jpg">
+                      <img class="photo" src="/people/{{ slug }}.jpeg">
                       <div class="name">{{ lecturer.title | default(value="?") }}</div>
                       <div class="bio">{{ lecturer.extra.bio | default(value="Brzy se dozvíte, kdo další se přidá do týmu.") }}</div>
                     </div>
