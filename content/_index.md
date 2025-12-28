@@ -14,5 +14,5 @@ v praxi.
 
 Od praktických dovedností pro učitele po inspirativní workshopy pro studenty. Vyberte si kurz, který posune vaši výuku a přinese zkušenosti, které můžete okamžitě začít uplatňovat.
 
-[Prohlédnout katalog](kurzy)
+[Prohlédnout katalog](@/kurzy.md)
 

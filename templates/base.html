@@ -13,12 +13,12 @@
 <body>
     <header>
         <div>
-            <h1><a href="/">{{ config.title }}</a></h1>
+            <h1><a href="{{ get_url(path="@/_index.md") }}">{{ config.title }}</a></h1>
             <input type="checkbox" id="menu-toggle" class="menu-toggle" />
             <label for="menu-toggle" class="hamburger" aria-label="Menu">☰</label>
             <nav>
                 {% for link in config.extra.menus.header_links %}
-                    <div><a href="{{ link.url }}">{{ link.name }}</a></div>
+                    <div><a href="{{ get_url(path=link.url) }}">{{ link.name }}</a></div>
                 {% endfor %}
             </nav>
         </div>
