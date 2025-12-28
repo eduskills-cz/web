@@ -64,7 +64,7 @@ code, pre {
 
 header {
   background-color: $medium-brown;
-  color: $text-on-accent;
+  color: $text-on-accent-secondary;
 
   > div {
     min-height: 5rem;
@@ -138,6 +138,10 @@ header {
     &:hover {
       color: $text-on-accent-secondary;
       text-decoration: underline;
+    }
+
+    &.current {
+      color: $text-on-accent-secondary;
     }
   }
 }

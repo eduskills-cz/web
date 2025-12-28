@@ -18,7 +18,13 @@
             <label for="menu-toggle" class="hamburger" aria-label="Menu">☰</label>
             <nav>
                 {% for link in config.extra.menus.header_links %}
-                    <div><a href="{{ get_url(path=link.url) }}">{{ link.name }}</a></div>
+                    {% set url = get_url(path=link.url) %}
+                    {% if url == current_url %}
+                        {% set classes = "current" %}
+                    {% else %}
+                        {% set classes = "" %}
+                    {% endif %}
+                    <div><a href="{{ url }}" class="{{ classes }}">{{ link.name }}</a></div>
                 {% endfor %}
             </nav>
         </div>
