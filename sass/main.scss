@@ -45,7 +45,11 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkest-brown;
   font-family: $font-sans;
   font-weight: bold;
-  margin: 0 0 1rem 0;
+  margin-bottom: 0.5rem;
+}
+
+h2, h3, h4, h5, h6 {
+  margin-top: 1rem;
 }
 
 p, li, blockquote {
@@ -203,6 +207,16 @@ footer {
 
     div {
       margin: 0 auto;
+    }
+  }
+
+  a[href] {
+    color: $text-on-accent;
+    text-decoration: underline;
+
+    &:hover {
+      color: $text-on-accent-secondary;
+      text-decoration: underline;
     }
   }
 }
