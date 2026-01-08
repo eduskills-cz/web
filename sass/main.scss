@@ -1,4 +1,5 @@
 $max-width: 1200px;
+$card-width: 280px;
 $photo-width: 240px;
 $horizontal-padding: 1.5rem;
 $paragraph-spacing: 1.25rem;
@@ -233,7 +234,7 @@ footer {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    width: $photo-width;         // fixed width of the medallion card
+    width: $card-width;         // fixed width of the medallion card
 
     .photo {
       width: $photo-width;
@@ -253,7 +254,7 @@ footer {
     }
 
     .bio {
-      min-height: 6em;
+      font-size: 0.9rem;
     }
 
     &.placeholder {

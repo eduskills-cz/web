@@ -19,7 +19,7 @@
                     {% set lecturer = load_data(literal='{
                         "title": "?",
                         "extra": {
-                            "bio": "Brzy se dozvíte o dalších lektorech, kteří budou s námi spolupracovat."
+                            "bio": "Brzy se dozvíte o dalších členech týmu."
                         }
                     }', format="json") %}
                     {% set classes = "lecturer-card placeholder" %}
@@ -37,5 +37,5 @@
         {{ parts[1] | safe }}
     </section>
 
-    <a class="action" href="{{ get_url(path="@/kurzy.md") }}">Prohlédnout katalog</a>
+    <a class="action" href="{{ get_url(path="@/kurzy.md") }}">Prohlédnu si katalog kurzů</a>
 {% endblock %}
