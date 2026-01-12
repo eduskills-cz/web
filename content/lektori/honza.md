@@ -2,8 +2,6 @@
 title = "Jan Burdík"
 +++
 
-# Jan Burdík
-
 Už v první třídě jsem ve škole narazil, když jsem se dozvěděl, že nevíme,
 kolik je 3 - 5, když já už v té době věděl, že je to mínus 2. To je to
 jediné, co si z první třídy pamatuji.  Na gymplu jsem zjistil, že do života

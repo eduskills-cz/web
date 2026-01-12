@@ -5,8 +5,6 @@ title = "Pavel „Grumpy“ Šimerda"
 bio = "Lektor technických dovedností a programování, který učí logické myšlení a reálné technologie způsobem, který osloví jak studenty, tak učitele."
 +++
 
-# Pavel Šimerda
-
 Jsem programátor, který se celý život zabývá vzděláváním a výukovými
 metodami.
 

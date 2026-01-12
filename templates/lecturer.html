@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} – {{ config.title }}{% endblock %}
+
+{% block content %}
+<article class="lecturer">
+    <img class="photo" src="/people/{{ page.slug }}.webp">
+    <h1>{{ page.title }}</h1>
+    {{ page.content | safe }}
+</article>
+{% endblock %}
+
