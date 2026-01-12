@@ -27,7 +27,7 @@
                     {% endif %}
                     <div class="{{ classes }}">
                         <img class="photo" src="/people/{{ slug }}.webp">
-                        <div class="name">{{ lecturer.title | default(value="") }}</div>
+                        <div class="name"><a href="{{ get_url(path="lektori/" ~ slug) }}">{{ lecturer.title | default(value="") }}</a></div>
                         <div class="bio">{{ lecturer.extra.bio | default(value="") }}</div>
                     </div>
                 {% endfor %}
