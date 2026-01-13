@@ -13,4 +13,4 @@ if [ ! -e $CACHE/zola ]; then
     chmod +x $CACHE/zola
 fi
 
-exec $CACHE/zola build
+$CACHE/zola build
