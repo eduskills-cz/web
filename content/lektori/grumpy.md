@@ -1,8 +1,8 @@
 +++
-title = "Pavel „Grumpy“ Šimerda"
+title = "Pavel Šimerda"
 
 [extra]
-bio = "Lektor technických dovedností a programování, který učí logické myšlení a reálné technologie způsobem, který osloví jak studenty, tak učitele."
+bio = "Jako vedoucí lektor se stará o nově vznikající lektorský tým a zajišťuje technologické zázemí celého projektu."
 +++
 
 Jsem programátor, který se celý život zabývá vzděláváním a výukovými

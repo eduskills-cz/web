@@ -2,7 +2,7 @@
 title = "Lektoři"
 +++
 
-## Přinášíme kurzy inovativního vzdělávání
+## Pomáháme zlepšit vzdělávání v Česku
 
 **Studenti. Odborníci. Pedagogové.** Náš tým spojuje rozdílné pohledy na
 vzdělávání – od studentské zvídavosti přes odborné know‑how až po

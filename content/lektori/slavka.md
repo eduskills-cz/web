@@ -2,7 +2,7 @@
 title = "Michal Ševčík"
 
 [extra]
-bio = "Michal věří, že škola může být místem, kam se těší učitel i student. Pomáhá učitelům hledat nové cesty, jak vést hodiny, které baví obě strany."
+bio = "Přináší zkušenost studenta, který věří, že do školy se můžou těšit všichni zúčastnění. Pomáhá učitelům hledat nové cesty."
 +++
 
 Jsem Michal, na základní škole jsem zažil ukázku toho, jak výuka a
