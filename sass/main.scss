@@ -58,6 +58,10 @@ p, li, blockquote {
   font-family: $font-sans;
 }
 
+ul {
+  padding-left: 1.5em;
+}
+
 p + p {
   margin-top: $paragraph-spacing;
 }
