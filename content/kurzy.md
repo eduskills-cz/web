@@ -1,5 +1,9 @@
 +++
 title = "Kurzy"
+
+# TODO:
+#   - mat-geometrie
+#   - mat-funkce
 +++
 
 ## Katalog kurzů pro učitele a lektory
