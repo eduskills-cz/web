@@ -2,7 +2,7 @@
 title = "Pavel Šimerda"
 
 [extra]
-bio = "Jako vedoucí lektor se stará o nově vznikající lektorský tým a zajišťuje technologické zázemí celého projektu."
+bio = "Jako vedoucí lektor zajišťuje kvalitu našich workshopů a podporuje profesní rozvoj celého lektorského týmu."
 +++
 
 Jsem programátor, který se celý život zabývá vzděláváním a výukovými

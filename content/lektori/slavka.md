@@ -2,7 +2,7 @@
 title = "Michal Ševčík"
 
 [extra]
-bio = "Přináší zkušenost studenta, který věří, že do školy se můžou těšit všichni zúčastnění. Pomáhá učitelům hledat nové cesty."
+bio = "Provází školy a učitele formativním pojetím výuky. Ukazuje, jak učit matematiku, chemii a fyziku s porozuměním."
 +++
 
 Jsem Michal, na základní škole jsem zažil ukázku toho, jak výuka a
