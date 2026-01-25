@@ -7,7 +7,7 @@ title = "Učíme děti pracovat s čísly"
 Učit se nazpaměť násobilku je zbytečné. Místo toho se podíváme na
 vlastnosti čísel a na nich vystavíme početní schopnosti. Nepoužíváme
 vzorečky, vyhýbáme se memorování postupů, místo toho tvoříme představu a
-hluboké pochopení, ze kterého můžou děti těžit po celý život. Ve škole jim
+hluboké pochopení, ze kterého děti můžou těžit po celý život. Ve škole jim
 to pak umožní vyvarovat se chyb z nepozornosti.
 
 Přijďte na průřezový workshop oblastí rozloženou napříč ročníky základní
