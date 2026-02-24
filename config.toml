@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://teachingskills.cz"
-title = "teachingskills.cz"
+title = "EduSkills.cz"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true

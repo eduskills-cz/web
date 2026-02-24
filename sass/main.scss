@@ -12,14 +12,14 @@ $pure-white: white;
 $cloud-dancer: #f0efeb;
 $text-primary: #0a0a0a;
 $text-on-accent: #f0efeb;
-$text-on-accent-secondary: #f9c9b0;
 $text-footer: #606060;
 $text-emphasis: #d35400;
 // Education palette
-$darkest-brown: #3e2723;
-$medium-brown: #795548;
 $rich-lapis: #26619c;
 $bright-lapis: #3f88c5;
+// EduSkills palette
+$darkest-green: #0e321a;
+$logo-color: #bda886;
 
 * {
   margin: 0;
@@ -32,7 +32,7 @@ html {
 }
 
 body {
-  background: $darkest-brown;
+  background: $darkest-green;
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -43,7 +43,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: $darkest-brown;
+  color: $darkest-green;
   font-family: $font-sans;
   font-weight: bold;
   margin-bottom: 0.5rem;
@@ -96,7 +96,7 @@ a[href].action {
 
 code, pre {
   font-family: $font-mono;        // monospace for code
-  ggbackground-color: $cloud-dancer;
+  background-color: $cloud-dancer;
   color: $text-primary;
   padding: 0.2rem 0.4rem;
   border-radius: 0.25rem;
@@ -111,8 +111,7 @@ code, pre {
 }
 
 header {
-  background-color: $medium-brown;
-  color: $text-on-accent-secondary;
+  color: $logo-color;
 
   > div {
     width: 100%;
@@ -130,6 +129,25 @@ header {
       padding-left: $horizontal-padding;
       font-size: 1.4rem;
       line-height: 4rem;
+
+      > a[href] {
+        color: $logo-color;
+        display: flex;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+
+        img.logo {
+          display: block;
+          height: 4rem;
+          width: auto;
+        }
+
+        span {
+        }
+      }
     }
 
     > input[type="checkbox"] {
@@ -144,7 +162,6 @@ header {
         display: block;
       }
       color: $cloud-dancer;
-      //background-color: $darkest-brown;
       font-size: 2rem;
       line-height: 4rem;
       text-align: center;
@@ -158,16 +175,27 @@ header {
       flex-wrap: inherit;
       gap: 2rem;
 
-      > a {
+      a[href] {
         line-height: 3rem;
         display: block;
+        color: $cloud-dancer;
+        text-decoration: none;
+
+        &:hover {
+          color: $logo-color;
+          text-decoration: underline;
+        }
+
+        &.current {
+          color: $logo-color;
+        }
       }
 
       @media (max-width: $narrow-viewport) {
         display: none;
         padding: 0.5em 0 0.8em 0;
         width: 100%;
-        background-color: $darkest-brown;
+        //background-color: $darkest-green;
 
         > a {
           padding: 0 $horizontal-padding;
@@ -175,20 +203,6 @@ header {
           font-size: 1.6rem;
         }
       }
-    }
-  }
-
-  a[href] {
-    color: $text-on-accent;
-    text-decoration: none;
-
-    &:hover {
-      color: $text-on-accent-secondary;
-      text-decoration: underline;
-    }
-
-    &.current {
-      color: $text-on-accent-secondary;
     }
   }
 }
@@ -200,7 +214,6 @@ main {
 }
 
 footer {
-  //background-color: $darkest-brown;
   color: $text-on-accent;
 
   .container {
@@ -218,7 +231,7 @@ footer {
     text-decoration: underline;
 
     &:hover {
-      color: $text-on-accent-secondary;
+      color: $logo-color;
       text-decoration: underline;
     }
   }
@@ -276,7 +289,6 @@ article {
 
     div.name {
       margin-bottom: 0.25rem;
-      color: $medium-brown;
       font-size: 1.1rem;
       font-weight: bold;
     }
