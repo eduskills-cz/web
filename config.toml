@@ -20,6 +20,6 @@ copyright_year = 2025
 [extra.menus]
 header_links = [
   { url = "@/_index.md", name = "Kdo jsme" },
-  { url = "@/kurzy.md", name = "Nabídka kurzů" },
+  { url = "@/sluzby/_index.md", name = "Co nabízíme" },
   { url = "@/kontakt.md", name = "Kontakt" }
 ]

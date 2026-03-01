@@ -1,5 +1,5 @@
 +++
-title = "Lektoři"
+title = "Kdo jsme"
 +++
 
 ## Pomáháme zlepšit vzdělávání v Česku

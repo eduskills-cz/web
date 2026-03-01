@@ -1,5 +1,9 @@
 +++
 title = "Jan Burdík"
+aliases = ["lektori/honza/"]
+
+[extra]
+bio = "Lektor se zkušeností ze střední školy, který propojuje vzdělávání, praxi a nadhled." 
 +++
 
 Už v první třídě jsem ve škole narazil, když jsem se dozvěděl, že nevíme,

@@ -1,5 +1,6 @@
 +++
 title = "Učíme děti rozumět výrazům"
+aliases = ["kurzy/mat-vyrazy/", "matematika/vyrazy/"]
 
 # Příklady:
 #   - Pythagorova věta

@@ -1,5 +1,6 @@
 +++
 title = "Učíme děti pracovat s čísly"
+aliases = ["kurzy/mat-cisla/", "matematika/cisla/"]
 +++
 
 # Učíme děti pracovat s čísly

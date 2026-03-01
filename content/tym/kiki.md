@@ -1,5 +1,6 @@
 +++
 title = "Kristýna Šavrdová"
+aliases = ["lektori/kiki/"]
 
 [extra]
 bio = "Zakladatelka projektu a lektorka, která pomáhá učitelům i studentům komunikovat, vyjednávat a zvládat konflikty."

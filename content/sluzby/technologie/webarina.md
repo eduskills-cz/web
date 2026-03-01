@@ -1,5 +1,6 @@
 +++
 title = "Webařina: Generování statických prezentací"
+aliases = ["kurzy/inf-html/", "technologie/webarina/"]
 +++
 
 # Webařina: Generování statických prezentací

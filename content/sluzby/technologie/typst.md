@@ -1,5 +1,6 @@
 +++
 title = "Typografie s Typst pro tvůrce dokumentů"
+aliases = ["kurzy/inf-typst/", "technologie/typst/"]
 +++
 
 # Typografie s Typst pro tvůrce dokumentů

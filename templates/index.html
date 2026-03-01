@@ -11,10 +11,10 @@
 
         <section id="lecturers">
             <div class="lecturers-container">
-                {% set lecturers = get_section(path="lektori/_index.md")%}
+                {% set lecturers = get_section(path="tym/_index.md")%}
                 {% for slug in lecturers.extra.lecturers %}
                     {% if slug != "" %}
-                        {% set lecturer = get_page(path="lektori/" ~ slug ~ ".md") %}
+                        {% set lecturer = get_page(path="tym/" ~ slug ~ ".md") %}
                         {% set classes = "lecturer-card" %}
                     {% else %}
                         {% set lecturer = load_data(literal='{
@@ -27,7 +27,7 @@
                     {% endif %}
                     <div class="{{ classes }}">
                         <img class="photo" src="/people/{{ slug }}.webp">
-                        <div class="name"><a href="{{ get_url(path="lektori/" ~ slug) }}">{{ lecturer.title | default(value="") }}</a></div>
+                        <div class="name"><a href="{{ get_url(path="tym/" ~ slug) }}">{{ lecturer.title | default(value="") }}</a></div>
                         <div class="bio">{{ lecturer.extra.bio | default(value="") }}</div>
                     </div>
                 {% endfor %}
@@ -38,6 +38,6 @@
             {{ parts[1] | safe }}
         </section>
 
-        <a class="action" href="{{ get_url(path="@/kurzy.md") }}">Prohlédnu si katalog kurzů</a>
-    <article>
+        <a class="action" href="{{ get_url(path="@/sluzby/_index.md") }}">Prohlédnu si, co nabízíme</a>
+    </article>
 {% endblock %}

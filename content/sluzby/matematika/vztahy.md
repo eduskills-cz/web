@@ -1,5 +1,6 @@
 +++
 title = "Učíme děti rozumět matematickým vztahům"
+aliases = ["kurzy/mat-funkce/", "matematika/vztahy/"]
 
 # Příklady:
 #   - Úsekové měření rychlosti

@@ -1,5 +1,6 @@
 +++
 title = "Michal Ševčík"
+aliases = ["lektori/slavka/", "tym/michal/", "lektori/michal/"]
 
 [extra]
 bio = "Provází školy a učitele formativním pojetím výuky. Ukazuje, jak učit matematiku, chemii a fyziku s porozuměním."

@@ -1,5 +1,6 @@
 +++
 title = "Učíme děti chápat prostor"
+aliases = ["kurzy/mat-geometrie/", "matematika/geometrie/"]
 +++
 
 # Učíme děti chápat prostor

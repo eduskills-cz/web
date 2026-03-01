@@ -1,5 +1,6 @@
 +++
 title = "Pavel Šimerda"
+aliases = ["lektori/grumpy/"]
 
 [extra]
 bio = "Jako vedoucí lektor zajišťuje kvalitu našich workshopů a podporuje profesní rozvoj celého lektorského týmu."
