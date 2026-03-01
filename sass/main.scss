@@ -228,7 +228,7 @@ footer {
 
   a[href] {
     color: $text-on-accent;
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       color: $logo-color;
