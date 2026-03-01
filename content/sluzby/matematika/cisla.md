@@ -1,6 +1,7 @@
 +++
 title = "Učíme děti pracovat s čísly"
 aliases = ["kurzy/mat-cisla/", "matematika/cisla/"]
+template = "course.html"
 +++
 
 # Učíme děti pracovat s čísly

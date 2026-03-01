@@ -1,6 +1,7 @@
 +++
 title = "Učíme děti chápat prostor"
 aliases = ["kurzy/mat-geometrie/", "matematika/geometrie/"]
+template = "course.html"
 +++
 
 # Učíme děti chápat prostor

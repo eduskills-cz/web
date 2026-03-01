@@ -1,6 +1,7 @@
 +++
 title = "Typografie s Typst pro tvůrce dokumentů"
 aliases = ["kurzy/inf-typst/", "technologie/typst/"]
+template = "course.html"
 +++
 
 # Typografie s Typst pro tvůrce dokumentů

@@ -3,9 +3,7 @@ title = "Matematika"
 aliases = ["sluzby/inovativni-vyuka/", "sluzby/informatika/"]
 +++
 
-## Matematika
-
-O tuto službu se v EduSkills starají [Pavel](/tym/grumpy/) a [Michal](/tym/michal/).
+## Inovativní výuka matematiky a informatiky
 
 Učíme matematiku tak, aby děti rozuměly tomu, co dělají, a uměly se o svoje
 postupy opřít. Méně pouček a memorování, více představ, významu a ověřování.
@@ -16,7 +14,7 @@ Nejde nám o rychlé „triky do písemky“. Jde nám o dlouhodobou kostru
 matematiky napříč ročníky: stejné myšlenky se vrací v různých podobách a
 dávají dohromady jeden jazyk.
 
-### S čím školám nejčastěji pomáháme
+### S čím vám umíme pomoct
 
   - když děti „počítají“, ale neví, proč to tak dělají
   - když se postupy učí jako recepty a pak se pletou při drobné změně zadání
@@ -44,14 +42,27 @@ Ukazujeme učitelům konkrétní aktivity a otázky do hodiny: jak vést děti k
 tomu, aby uměly výsledek odhadnout, ověřit a vysvětlit; jak používat zápis
 tak, aby byl oporou; a jak stavět úlohy tak, aby odhalily porozumění.
 
-### Informatika a technologie
+### Informatika
 
-Na matematiku navazujeme i informatickým pohledem: učíme pracovat se
-strukturou, jazykem a přesností. V praxi to často přirozeně přejde do toho,
-jak ve škole tvořit kvalitní materiály (dokumenty, prezentace, jednoduché
-weby) tak, aby byly konzistentní, snadno upravitelné a dlouhodobě udržitelné.
+Informatiku chápeme jako rozvoj informatického myšlení, ne jako „ovládání
+programů“. Vycházíme z toho, co se ve škole objevuje i v RVP: práce s
+informací a daty, algoritmizace a programování, informační systémy a
+digitální technologie.
 
-Pokud vás zajímají hlavně nástroje a workflow pro tvorbu materiálů, podívejte
-se na službu [Technologické nástroje ve škole](/sluzby/technologie/).
+Pro praxi to znamená dovednosti jako popsat postup, rozložit problém,
+navrhnout řešení, testovat ho a srozumitelně vysvětlit.
 
-<a class="action" href="/kontakt/">Chci matematiku pro naši školu</a>
+### Službu pro vás zajišťují
+
+<div class="service-team">
+  <a class="member" href="/tym/grumpy/">
+    <img class="photo" src="/people/grumpy.webp" alt="Pavel Šimerda">
+    <span class="name">Pavel Šimerda</span>
+  </a>
+  <a class="member" href="/tym/michal/">
+    <img class="photo" src="/people/slavka.webp" alt="Michal Ševčík">
+    <span class="name">Michal Ševčík</span>
+  </a>
+</div>
+
+<a class="action" href="/kontakt/">Chci pro naši školu</a>

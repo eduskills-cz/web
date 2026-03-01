@@ -1,6 +1,7 @@
 +++
 title = "Učíme děti rozumět výrazům"
 aliases = ["kurzy/mat-vyrazy/", "matematika/vyrazy/"]
+template = "course.html"
 
 # Příklady:
 #   - Pythagorova věta

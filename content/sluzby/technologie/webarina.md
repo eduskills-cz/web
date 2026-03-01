@@ -1,6 +1,7 @@
 +++
 title = "Webařina: Generování statických prezentací"
 aliases = ["kurzy/inf-html/", "technologie/webarina/"]
+template = "course.html"
 +++
 
 # Webařina: Generování statických prezentací

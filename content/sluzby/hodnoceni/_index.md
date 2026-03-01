@@ -8,9 +8,6 @@ Formativní hodnocení není „měkčí známkování“. Je to způsob, jak ud
 předvídatelné, smysluplné a bezpečné: žáci vědí, kam míří, podle čeho se
 pozná posun a jak vypadá další krok.
 
-O tuto službu se v EduSkills starají [Michal](/tym/michal/) a
-[Pavel](/tym/grumpy/).
-
 ### Typické situace ve škole
 
 - „Žáci nevědí, co se od nich čeká, dokud nedostanou známku.“
@@ -51,5 +48,18 @@ Nejde o sadu triků. Pomůžeme vám propojit cíle, kritéria, sebehodnocení a
 zpětnou vazbu do jednoho plynulého procesu a zavést ho do praxe. Součástí je
 i komunikace směrem k žákům, rodičům a učitelům tak, aby změna byla
 pochopitelná a udržitelná.
+
+### Službu pro vás zajišťují
+
+<div class="service-team">
+  <a class="member" href="/tym/michal/">
+    <img class="photo" src="/people/slavka.webp" alt="Michal Ševčík">
+    <span class="name">Michal Ševčík</span>
+  </a>
+  <a class="member" href="/tym/grumpy/">
+    <img class="photo" src="/people/grumpy.webp" alt="Pavel Šimerda">
+    <span class="name">Pavel Šimerda</span>
+  </a>
+</div>
 
 <a class="action" href="/kontakt/">Chci se domluvit</a>
