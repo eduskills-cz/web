@@ -65,4 +65,4 @@ navrhnout řešení, testovat ho a srozumitelně vysvětlit.
   </a>
 </div>
 
-<a class="action" href="/kontakt/">Chci pro naši školu</a>
+<a class="action" href="/kontakt/">Chci to pro naši školu</a>
