@@ -11,6 +11,12 @@ vzorečky, vyhýbáme se memorování postupů, místo toho tvoříme představu
 hluboké pochopení, ze kterého můžou děti těžit po celý život. Ve škole jim
 to pak umožní vyvarovat se chyb z nepozornosti.
 
+V kurzu ukazujeme, jak s čísly pracovat tak, aby dávaly smysl i dětem:
+
+  - Modely a vizualizace, které nahrazují „nauč se postup“
+  - Přechod od konkrétní situace k zápisu a zpět (aby zápis byl opora)
+  - Dovednost výsledky odhadnout a ověřit, ne jen „spočítat“
+
 Přijďte na průřezový workshop oblastí rozloženou napříč ročníky základní
 školy.
 

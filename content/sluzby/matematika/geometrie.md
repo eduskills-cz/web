@@ -11,6 +11,10 @@ zafixují na celý život. Dokonce ani slavnou Pythagorovu větu se není
 potřeba učit nazpaměť, ačkoliv si ji člověk nakonec používáním zapamatuje,
 i kdyby nechtěl.
 
+V kurzu ukazujeme geometrii jako práci s představami o prostoru. Místo
+„vzorečků“ hledáme význam: jak se mění délky a plochy, co znamená úhel, proč
+věty platí a kdy se naopak mění předpoklady.
+
 Přijďte na průřezový workshop oblastí rozloženou napříč ročníky základní
 školy s přesahem do střední školy.
 

@@ -15,6 +15,10 @@ tak zbytečných chyb a chybných představ o světě. Funkce popisují okolní
 svět a jejich znalost může pomáhat v různých oblastech lidské činnosti po
 celý život.
 
+V kurzu učíme vztahy a funkce jako jazyk pro popis světa: vstupy, výstupy,
+omezení, grafy a interpretaci. Důraz klademe na porozumění a ověřitelnost,
+ne na mechanické zkratky.
+
 Přijďte na průřezový workshop oblastí rozloženou napříč ročníky základní
 školy s přesahem do střední školy.
 
@@ -30,4 +34,4 @@ Témata:
   - Funkce jako nástroj představy o světě
   - Přímá úměra a lineární vztahy
   - Uvědomění si nelineárních vztahů
-  - Praktické aplice funkcí v životě
+  - Praktické aplikace funkcí v životě

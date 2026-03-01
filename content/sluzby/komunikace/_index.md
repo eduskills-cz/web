@@ -7,6 +7,10 @@ title = "Rozvoj komunikačních dovedností"
 Komunikace je dovednost a dá se trénovat. Nejde nám o „správné věty“, ale o
 to, jak udržet dialog, respekt a hranice i ve vypjatých situacích.
 
+Nabízíme dvě roviny podpory: pomáháme řešit komunikaci ve škole (třída,
+sborovna, rodiče) a zároveň ukazujeme, jak komunikaci a vyjednávání vyučovat
+tak, aby si žáci dovednosti opravdu osvojili.
+
 O tuto službu se v EduSkills starají [Kiki](/tym/kiki/) a [Pavel](/tym/grumpy/).
 
 ### S čím vám pomůžeme
@@ -18,6 +22,7 @@ Pracujeme s konkrétními scénáři ze školy:
   - práce s emocemi a tlakem
   - jak říct „ne“ a nenarušit vztah
   - rovnocenná komunikace bez zbytečné eskalace
+  - jak komunikaci a vyjednávání učit (modelové situace, nácvik, reflexe)
 
 ### Co je cílem
 

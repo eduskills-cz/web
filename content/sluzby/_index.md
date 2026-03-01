@@ -5,15 +5,15 @@ aliases = ["oblasti/"]
 
 ## Pomůžeme vám zlepšit komunikaci i metody výuky
 
-Pomáháme školám a učitelům posouvat výuku i spolupráci tak, aby byla
-smysluplná, udržitelná a fungovala v reálné třídě. Nabízíme služby, které
-řeší nejčastější bolesti ve škole: náročnou komunikaci, srozumitelnou výuku
-matematiky a informatiky, hodnocení, které podporuje učení, a také nástroje a
-postupy pro tvorbu kvalitních materiálů.
+Pomůžeme vaší škole a vašemu týmu posouvat výuku i spolupráci tak, aby byla
+smysluplná, udržitelná a fungovala v reálné třídě. Zaměřujeme se na oblasti,
+které ve škole dělají největší rozdíl: náročnou komunikaci, srozumitelnou
+výuku matematiky a informatiky, hodnocení, které podporuje učení, a nástroje
+a postupy pro tvorbu kvalitních materiálů.
 
 ### Rozvoj komunikačních dovedností
 
-Pomáháme učitelům i žákům zvládat náročné situace ve škole tak, aby se dalo
+Pomůžeme vašim učitelům i žákům zvládat náročné situace ve škole tak, aby se dalo
 mluvit věcně, s respektem a bez zbytečné eskalace. Zaměřujeme se na
 naslouchání, nastavování hranic, práci s emocemi a vedení rozhovorů, které
 udrží vztah a zároveň posunou situaci kupředu.
@@ -22,7 +22,7 @@ udrží vztah a zároveň posunou situaci kupředu.
 
 ### Matematika (a informatika) s porozuměním
 
-Učíme matematiku a informatiku tak, aby děti rozuměly tomu, co dělají, a
+Ukazujeme, jak učit matematiku a informatiku tak, aby děti rozuměly tomu, co dělají, a
 uměly si svoje postupy ověřovat. Místo pouček a „triků do písemky“ stavíme
 na představách, významu zápisu, práci se vztahy a na dovednosti poznat, kdy
 výsledek dává smysl. Učitelé z toho získají jasnější kostru témat napříč

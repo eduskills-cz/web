@@ -16,6 +16,10 @@ což jim umožňuje výpočty ověřovat a vyvarovat se tak zbytečných chyb. V
 a jeho zápis jsou dvě zcela odlišné věci. Porozumění matematickému jazyku
 a algebře může dětem pomáhat celý život bez ohledu na profesi.
 
+V kurzu se zaměřujeme na to, aby matematický zápis nebyl „šifra“, ale nástroj.
+Učitelé si odnesou způsob, jak vést děti k porozumění výrazům, práci s
+neznámými a ověřování ekvivalence bez slepého následování nepřesných pouček.
+
 Přijďte na průřezový workshop oblastí rozloženou napříč ročníky základní
 školy.
 
