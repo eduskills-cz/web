@@ -58,3 +58,6 @@ jsem se na jeho založení a spuštění v přípravné a startovací fázi. Vě
 jsem se praktickým krokům potřebným k otevření školy V červnu 2025 pak
 především zajištění budovy, díky které bylo možné zahájit výuku v září
 2025. V roce 2026 pomáhám nově vznikajícím projektům s rozvojem.
+
+O výuce programování na základní škole jsem mluvil na InstallFestu 2024
+([video](https://www.youtube.com/watch?v=kk6CkSBEZT0)).
